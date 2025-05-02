@@ -1,0 +1,69 @@
+.love-ya-like-a-sister-regular {
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  body{
+    font-family: "Love Ya Like A Sister", cursive;
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1702px 2556px;
+    background-position: -225px 0px;
+    width:1179px;
+    height:2556px;
+    text-align: center;
+}
+h1, h2{
+    color:#003049;
+    text-shadow: 3px 3px #c1121f;
+    font-weight: bold;
+    font-size: 64px;
+    margin-bottom: 100px;
+}
+#gombok{
+    margin-top:1800px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+}
+#Smile, #Save{
+width: 350px;
+height: 120px;
+border:10px solid grey;
+border-radius: 10px;
+color:black;
+text-shadow:3px 3px white;
+font-weight: bold;
+font-size: 64px;
+
+
+}
+#Smile{
+    background: #C1121F;
+}
+#Save{
+    background:#003049;
+}
+#lastfew{
+    margin-top:70px;
+    font-size:40px;
+    font-weight: bold;
+    color:red;
+    text-shadow:3px 3px #003049;
+    
+
+}
+p{
+    text-align:start;
+    font-size:50px;
+}
+#Smile:active{
+    background-color: #003049;
+    border:0;
+}
+#Save:active{
+    background-color: #C1121F;
+    border:0;
+}
