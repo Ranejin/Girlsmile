@@ -4,14 +4,12 @@
     font-style: normal;
   }
 
-  body{
+body{
     font-family: "Love Ya Like A Sister", cursive;
     background-image: url(1.jpg);
     background-repeat: no-repeat;
-    background-size: 1702px 2556px;
-    background-position: -225px 0px;
-    width:1179px;
-    height:2556px;
+    background-position: center;
+    background-size: cover;
     text-align: center;
 }
 h1, h2{
